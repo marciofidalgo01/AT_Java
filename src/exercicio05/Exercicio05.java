@@ -1,0 +1,7 @@
+package exercicio05;
+
+public class Exercicio05 {
+    public static void main(String[] args) {
+        System.out.println("Exercício 05");
+    }
+}
