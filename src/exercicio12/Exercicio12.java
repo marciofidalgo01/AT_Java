@@ -31,8 +31,8 @@ public class Exercicio12 {
 
 
 class Chat {
-    private String[] lista = new String[10];
-    private int indice = 0;
+    public String[] lista = new String[10];
+    public int indice = 0;
 
     public void registrarMensagem(String usuario, String mensagem) {
         lista[indice] = usuario + ": " + mensagem;
